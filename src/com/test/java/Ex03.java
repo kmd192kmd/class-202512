@@ -2,4 +2,7 @@ package com.test.java;
 
 public class Ex03 {
 
+	//집에서 복습 중 추가한 내용..
+	public int a;
+	
 }
